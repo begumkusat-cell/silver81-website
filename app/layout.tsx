@@ -21,9 +21,9 @@ export const metadata = {
   title: "silver81",
   description: "stories written by silver81",
   icons: {
-    icon: "/silver81-logo.jpg",
-    shortcut: "/silver81-logo.jpg",
-    apple: "/silver81-logo.jpg",
+    icon: "/silver81-logo.png",
+    shortcut: "/silver81-logo.png",
+    apple: "/silver81-logo.png",
   },
 };
 
