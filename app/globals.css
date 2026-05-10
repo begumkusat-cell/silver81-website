@@ -31,15 +31,16 @@ body {
     font-size: 4.5rem !important;
   }
 
-  /* Subtitle */
-  .subtitle {
-    font-size: 0.85rem !important;
-  }
-  
-  .enter-button {
-    padding: 0.55rem 1.6rem !important;
-    font-size: 0.8rem !important;
-  }
+/* Welcome to my literary world. */
+p {
+  font-size: 0.85rem !important;
+}
+
+/* Enter the library button */
+a[href="/stories"] {
+  font-size: 0.75rem !important;
+  padding: 0.45rem 1.4rem !important;
+}
 
   /* Social buttons */
   .social-button {
