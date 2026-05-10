@@ -12,7 +12,7 @@ export default function Home() {
         </h2>
         <a
   href="/stories"
-  className="mt-16 inline-block border border-[#bfc5cc]/40 px-10 py-4 sm:px-20 sm:py-8 rounded-full text-2xl sm:text-5xl tracking-wide text-[#bfc5cc] hover:bg-[#bfc5cc] hover:text-black transition"
+  className="mt-10 sm:mt-16 inline-block border border-[#bfc5cc]/40 px-8 py-3 sm:px-20 sm:py-8 rounded-full text-lg sm:text-5xl tracking-wide text-[#bfc5cc] hover:bg-[#bfc5cc] hover:text-black transition"
 >
   enter the library
 </a>
