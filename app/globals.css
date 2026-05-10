@@ -24,3 +24,49 @@ body {
   color: var(--foreground);
   font-family: Georgia, "Times New Roman", serif;
 }
+/* Mobile optimization */
+@media (max-width: 768px) {
+  /* Homepage title */
+  h1 {
+    font-size: 4.5rem !important;
+  }
+
+  /* Subtitle */
+  .subtitle {
+    font-size: 1.4rem !important;
+  }
+
+  /* Main button */
+  .enter-button {
+    padding: 1rem 2.5rem !important;
+    font-size: 1.2rem !important;
+  }
+
+  /* Social buttons */
+  .social-button {
+    padding: 0.6rem 1.4rem !important;
+    font-size: 1rem !important;
+  }
+
+  /* Story title */
+  .story-title {
+    font-size: 4.5rem !important;
+    line-height: 0.95 !important;
+  }
+
+  /* Story paragraph */
+  .story-description {
+    font-size: 1.5rem !important;
+    line-height: 1.8 !important;
+  }
+
+  /* Chapter card */
+  .chapter-card {
+    padding: 2rem !important;
+  }
+
+  /* Chapter title */
+  .chapter-title {
+    font-size: 3rem !important;
+  }
+}
