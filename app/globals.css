@@ -59,3 +59,15 @@ body {
     font-size: 2.4rem !important;
     line-height: 1.1 !important;
   }
+  
+  @media (max-width: 640px) {
+    .silver-subtitle {
+      font-size: 1.15rem !important;
+      line-height: 1.1 !important;
+    }
+  
+    .silver-enter {
+      font-size: 1.4rem !important;
+      padding: 1.1rem 2.5rem !important;
+    }
+  }
