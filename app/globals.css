@@ -33,12 +33,12 @@ body {
 
   /* Subtitle */
   .subtitle {
-    font-size: 1.1rem !important;
+    font-size: 0.85rem !important;
   }
   
   .enter-button {
-    padding: 0.8rem 2.2rem !important;
-    font-size: 1rem !important;
+    padding: 0.55rem 1.6rem !important;
+    font-size: 0.8rem !important;
   }
 
   /* Social buttons */
