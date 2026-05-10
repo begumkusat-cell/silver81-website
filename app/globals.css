@@ -33,13 +33,12 @@ body {
 
   /* Subtitle */
   .subtitle {
-    font-size: 1.4rem !important;
+    font-size: 1.1rem !important;
   }
-
-  /* Main button */
+  
   .enter-button {
-    padding: 1rem 2.5rem !important;
-    font-size: 1.2rem !important;
+    padding: 0.8rem 2.2rem !important;
+    font-size: 1rem !important;
   }
 
   /* Social buttons */
@@ -67,6 +66,6 @@ body {
 
   /* Chapter title */
   .chapter-title {
-    font-size: 3rem !important;
+    font-size: 2.4rem !important;
+    line-height: 1.1 !important;
   }
-}
