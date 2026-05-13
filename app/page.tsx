@@ -7,7 +7,7 @@ export default function Home() {
           silver81
         </h1>
 
-        className="silver-subtitle text-[15px] sm:text-3xl italic font-light leading-tight max-w-xl"
+        className="silver-subtitle text-[10px] sm:text-3xl italic font-light leading-tight max-w-xl"
           welcome to my literary world.
         </h2>
         <a
