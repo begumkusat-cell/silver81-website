@@ -7,12 +7,12 @@ export default function Home() {
           silver81
         </h1>
 
-        <h2 className="silver-subtitle text-3xl italic font-light leading-tight max-w-xl">
+        className="silver-subtitle text-[15px] sm:text-3xl italic font-light leading-tight max-w-xl"
           welcome to my literary world.
         </h2>
         <a
   href="/stories"
-  className="silver-enter mt-16 inline-block border border-[#bfc5cc]/40 px-20 py-8 rounded-full text-5xl text-[#bfc5cc] hover:border-[#bfc5cc]/80 transition"
+  className="silver-enter mt-16 inline-block border border-[#bfc5cc]/40 px-5 py-2 text-[12px] sm:px-20 sm:py-8 sm:text-base rounded..."
 >
   enter the library
 </a>
