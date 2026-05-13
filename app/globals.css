@@ -60,14 +60,5 @@ body {
     line-height: 1.1 !important;
   }
 
-  @media screen and (max-width: 640px) {
-    main h2.silver-subtitle {
-      font-size: 18px !important;
-      line-height: 1.1 !important;
-    }
-  
-    main a.silver-enter {
-      font-size: 22px !important;
-      padding: 18px 40px !important;
-    }
-  }
+}
+
