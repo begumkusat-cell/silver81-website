@@ -17,7 +17,7 @@ export default function LostChildPage() {
             The Lost Child
           </h1>
   
-          <p className="max-w-4xl text-base sm:text-xl leading-9 text-[#bfc5cc]/60 mb-16">
+          <p className="max-w-4xl text-1g sm:text-xl leading-9 text-[#bfc5cc]/60 mb-16">
           They say time heals all wounds, that the pain of the past fades away after a while. Viola doesn’t believe that any pain she has will heal with time, because she still carries the wounds of the past that cause her deep pain. She wants to escape from the place she had lived since birth, as she believed by escaping that place, she can escape everything.
           </p>
   
